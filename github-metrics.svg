@@ -1239,15 +1239,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQGBwgBAgUD/8QALxAAAQMDAgUDAgYDAAAAAAAAAQIDBAAFEQYxBxITIUEIIlEyYRRCcYGRsSOhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC0pGVYVsO+aykkjKTgVhWeQAd80lu06Pa7c/OmLCI0dHOo7UCs4SM47DvmgK3PMMVVXUPqQuiLytNqYaTBQ4U+9AJUB5Bp/aG9QunL4pDF1It7mynXVe0mgm0nxykg+aM9s5wkUgtVzhXWGJNpltSGD+dByDS47JGMg70G1FFFBqcLGRUQ+p65S4fD9UKHkC4EsOKHgYzUvEjB77eBVfvWBbLpcNK2ddpjyHEsyFKf6Z2Ty9v90FRbra7jaUITcYzrKV92yo7/AHrm9wrHNjPmnHZdW3C08zDyW5LKvatElHUUB9idq6qoOldQpKoEk2OSPcsTF86XD8JA2oOfpXXGodKPIdtFwdQc/S4oqR/FWX4Seodd8fYteo4hVcFnlDrQCUn9qrSNCX0rC24i3Iee0kY5APmpz4RaNssmOzDenx2oslXTCiP8rzn5koVuDQWpjyGZTeWXErSoZwlXcUox48Y7Cqp8XbEvg9qfT1+sNxuBgvyOm4w/IUsdhk71aK1SjNtcOVkZfZQ6cfcA/wDaBYAAK832mnmih5tDiDulaQRXodq1dOEH9D/VBWjjNorQF9s13uNilsC/w0lXSYVgKVn6eUeaqq7bJbVuRPdYWmKtZbSsjdQ3FPrTOro+kuJ9yudxjuzYaJjvPHCvr96u3ftT80C/feIur4cV+zNo0qqWp1SEsgFCVH5oIIbuU7pdIT5KWxsnqqx/FW+0JwmZu03TWqY1y6ceKlDnQSTgrCe5+M06Nc8CNLakicsZj8FKQnCHUHCf3A3pn6a0dxX0jCVp6x3SEq2cx5H3WOcgH4NB0OLVpRxS1/b9ItKJhWoiTJeQfChgjPzU42yE1b7dFhMcxbitpbQSdwBimvw00WjSFscRJeEq6SFFcmSd1ZOcDPjNPMH7Y+PvQbZxvWFjIrJGaztQQlp/gFZrXrB29PKElK3lPFpz3JyTnGD+tTHDgw4SOWFFYYSO2G2wn+qUHGCBR2zj4oM0UUUBRRRQf//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAABAYFBwABAgMI/8QALxAAAQMDAwMCBAYDAAAAAAAAAQIDBAAFEQYSITFBURNhFBUiMgcWQkNxgSNSkf/EABgBAAMBAQAAAAAAAAAAAAAAAAADBAIB/8QAJhEAAgICAQIGAwEAAAAAAAAAAQIAAwQRIRIUEzFBcYGhUWGx4f/aAAwDAQACEQMRAD8A8zXi5vXKR6jwA4xwKACjgAdqxwYOM5FbZbLzqUJ6qOKIQqFEfmK2spyew80zaf0W/cHHA64kutDeYo+90eAakrPpO7Khev8AL3ktY+iQCAlJ8mrC0jpC7m2wrm1IbbdivKX6Shlbv9+KTbelQ2x1HV0s54G5UmpdOGG0ZlvSpcZP0uI6qaI65pWUojp0q2bymVZ9Wy4ynGpTTiQ4+Uj6EbuxFKOr9NfBkzrekqiK+pSeuz3/AIpiMGAYesWylTo+kU9xHcUVbprsGWh9rG4HuKE78dKxP3CtTM5OJwrpxTDo62zH5Qlxy22hrkKcTkKPihLJafmEgLdyiInqT+r2FPSpLUKOhCEAJAw02ngqNBhAbZJTIejMPTZTbhkKD+HSEbfYdqubR2nY8DVkqTa3Ji7N8KgsFx4qSXv1VVVp009eRPceiOOTW2wsIZO30R2UryKdtMMXVy0O/Jr9Ft0RtO2YxKSVrjAfuE+CamzsG/wwyHg/MoxcunrKtwRFO8WlEDVl4gOy/i23U+qpxB6bjnb/AFRTQKw3HaaLqlj00NnndUcq2S0RzIiBb0lbyguQo5S6nPBTWozNzmusBkGIwV7TKX0BHXFNYdqAlpGxr7iwe4Jascbi5+IuhrlpKalUthSWH0hxJ8Z5xSYnkgVbN/nzHLmHbncEXRgIDSXkg7E49j3pF1DZxHWZMTlhRypPdPv/ABXUcONicdGQ6aFWS6BzMd7a051HGAqpqCp5c5+UyyXWmEAjPIzVffuZSSCOnPNNdivapURNtkOoYBPDgGP+0Wb1xBPON2iNUPMa1iSJitrBVh5I43px9pqfVd7PPktvOpWgXCU4xOS2raHGBykD3qsGmluyUJYO95KyMp8eabLdopcyNa3jforRlSFNhBSctEdSatqyRTUFZTr9An+fMktx+uw2BtH3940ybm7fbDa7fYI+ZMaa4AhI5LY4SDULfLm7P0ei2S3UW96FIWspKCFOnPTIrWg7x+RNWpefWiXGU6W/USOMjqafbbq66axlThal2KLLyfRiSIYWuRz0T71DmKMmwORryP1+DKMYduvQOf8AZW17u/xmnYMRL0R51Z2FplrapAA6mle9zUwmEMZDkgjGz/X+ae9Q/iNftMvpQtiyfMkKKVM/BpJb9zVNzJDk2a9JfOXnllxeOBknPFZpqFY4jbbTYeYOv7uK1kgjn+xRdxgvwpHpyWykkUJgjqDToqMFnntlWH8odIACwcA1e2nLTbpVq0g7Jylx+atAAON2E15t/UNuRjzTlpLVxgvwGrwl+RChOF1lDS9qgo9eaqoyhQrcbk2Tjm7WjqS2s2Ei+zAj6EMOqIHY810WDV0HTCXZbUV5eoEDMSQFfQ0rypPfigtQ6itc2XNfaiSUl5P+AKXyheeSrzSYolS8r5J70m60X2F9EDjzj608NFX1nOfMfnzn5cpwuPvLK1rJ6knJodP3DmtkHsK7ocV2VIQ0wgqWTS5qf//Z" alt="" />
                             <div class="about">
-                                <div class="name">Peeping Dorm Manager</div>
+                                <div class="name">OCTOPATH TRAVELER</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Indie, RPG
+                                        RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1255,7 +1255,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        48 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1263,7 +1263,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 Dec 2023
+                                        Last played on 10 Feb 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1272,7 +1272,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 20 achievements unlocked
+                                            0 / 88 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -1283,7 +1283,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2024, 19:01:49 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2024, 20:01:22 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

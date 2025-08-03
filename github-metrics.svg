@@ -1244,7 +1244,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAYFBwECAwj/xAAuEAACAQMDAwIFAwUAAAAAAAABAgMABBEFEiEGE0ExYQcUIiNRFSQyFkJigZH/xAAaAQADAAMBAAAAAAAAAAAAAAACAwQBBQYA/8QAIBEAAgICAwEAAwAAAAAAAAAAAQIAAwQRBRIhFBMxQf/aAAwDAQACEQMRAD8A846tCI9xU+K52jILUCQ4yaJ1sfbyKBCqFiDnAJoeupTYATMOEdmdVJJ4Aqeg06UraLKpNrnduH93tQmiQxPqLNOR24xnb+acLVwJY8OrOxwExwR7e9IsBjFQakLfQTxafHHFbvHEJCVkbkH2qP1e2szaGRSZbraN+08KPyacbJtNN3JbbpCRyI2bOW8gUp9TMyySJFD2k9CvnHvSKwQYZr3NLqbu2MP+IAoK0TdOWFE3C7LKJR5FbaVF94g+atTcW2h5AtWcy7UUfy4rj2JJAiBCSnNTC6dC6CYTA7OaFlZ7e4BRgQ/FD3jGpO5jS4zFeqJFJjfjP59qaLa3jWWOS7k2qjZQjjPtUXbNtimATchXhvf2rX52GRViu5MTLyBnxWfDMlCBOsxtf6hVrZy23BwDzmpXVOldQ1Oze904GdSPrjA+qoiwlsEuJhFG1xcOoCOh4U1c9le2a6do2m6fOiXMr/uPYEV4dRKKKyy+yjr2B/loQ52yodrJ5GKI09RFdAMhKsBzTf8AEzRYtC6qCbT2p1XB8EnzUfDZIbQAMA6nd/qmBxJLKj2iR32hkEbNiN+Keda6csrPobSdbO5J552jfccjaB61X1xgxozA4Jwp969C9PaRb6x0P0zbaiwlja6cOgOMDFajkb/mKt/Nw6XJMVtH6Y02fRrCQs372QoTu9OM0JY9Gabd3tvKxbmdoiM+BTbbRx20GlW8eBHFfyqB+FHpQ2gAm4gUYy15J/zNaVsu311MsPsEk6B0qzc3EayK5OB9XFZGlJFfCSJiJYwDnNNWryyGw2gqUVzlqi4Ld377eqFB9VTLyN7je9Qh7+oR1P03F1HbfM6mzLJbRBlOceKryEmIFoyO6hKoDyDirbgsu5baglw7GD5ZcEN5qp7+aytTJatHJ3AxKNuroeGubIchzuSZVn4xK1ndHCJHkEHPPpV19P29kvQME891Mk5YhdrkAH2qjnGS34Azmn7S/iDBZdNxaTLYtIEYtv4807lKrMlVKCIpsEe7/S7f9X063QzGOQBuH8kcmumgaJbTLq7StMrQqShD4wc+tKNz8S7WPW7O9FhKeyqjZkeBWth8UrW3j1NDYTfugedw45zWj+HM6aVZS2QBGjWbKySCwjWW4N8ZPuR9w/x8HFTVnptqt9NG3fCGFSBv81Tt51qkuvtqXy03MaoF3emKbdC6+h1C/mkNpKEWID+Xmiv43LKhUXfkwmUAY/R2sC6AZInmJWRgcueRVUSvuup3xnDHG7mnx+qo00GaBbRwWyRz+arbmSZy8cihyT610nBYN2GzPcupJm2hxP/Z" alt="" />
                             <div class="about">
                                 <div class="name">Limbus Company</div>
                                 <div class="infos">
@@ -1288,7 +1288,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2025, 13:19:17 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Aug 2025, 14:07:12 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
